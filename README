@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=429
+
+this script compiles and runs a lustre program 
+there are 2 maps that hace been;
+<m-c>    compile 
+<m-r>     run
+to run it u must first compile it succesfully...run does not make compilation
+
+for each case the action is for the current node and for that the file must be of the format 
+node nodename
